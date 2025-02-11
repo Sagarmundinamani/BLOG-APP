@@ -4,7 +4,7 @@ import Home from './pages/Home';
 import BlogPost from './pages/BlogPost';
 import About from './pages/About';
 import Navigation from './components/Navigation';
-
+import "./App.css";
 function App() {
   return (
     <Router>
